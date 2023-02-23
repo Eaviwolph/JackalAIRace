@@ -4,5 +4,5 @@ using UnityEngine;
 
 public class SavePath : MonoBehaviour
 {
-    public static string path = @"C:\Users\quent\Documents\JackalAIRace\Neurons\";
+    public static string path = @"./Neurons/";
 }
